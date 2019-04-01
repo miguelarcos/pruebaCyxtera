@@ -1,0 +1,8 @@
+co/easysolutions/conctactProjectMigue/service/ConctacServiceImp.class
+co/easysolutions/conctactProjectMigue/dto/TotalContacts.class
+co/easysolutions/conctactProjectMigue/ConctactProjectMigueApplication.class
+co/easysolutions/conctactProjectMigue/views/MainView.class
+co/easysolutions/conctactProjectMigue/service/ConctacService.class
+co/easysolutions/conctactProjectMigue/repository/ConctacRepository.class
+co/easysolutions/conctactProjectMigue/controller/ConctactNameController.class
+co/easysolutions/conctactProjectMigue/model/Contacs.class
